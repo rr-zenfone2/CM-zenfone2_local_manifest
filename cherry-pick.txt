@@ -1,0 +1,6 @@
+# Current List of cherry-pick needed for Zenfone2
+# repopick in this order
+
+repopick 103773   // Fixes issue with repopick and patches for ril
+
+repopick 101970 102426 102725 103343 103928  // patches for adb, sideload, audio, ril & serial#
